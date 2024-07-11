@@ -1,0 +1,40 @@
+h1 {
+  color: red;
+  text-decoration: dotted;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.mydiv {
+  background-color: yellow;
+  color: blue;
+}
+
+.mydiv h1 {
+  color: aqua;
+}
+
+#unique {
+  color: blue;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin-top: 5px;
+  background-color: aqua;
+  text-align: center;
+}
+
+button {
+  background-color: red;
+  color: white;
+  height: 100px;
+  width: 100px;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: azure;
+}
